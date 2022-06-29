@@ -1,0 +1,79 @@
+body{ 
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8169f7a-f0ab-4485-a9c8-2a6eb0a56662/delgo35-56bf3a81-468c-4f4e-96ea-dc868e73c37f.jpg/v1/fill/w_1280,h_890,q_75,strp/random_aesthetic_wallpaper___free_2_use__by_cocozart_delgo35-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODkwIiwicGF0aCI6IlwvZlwvYTgxNjlmN2EtZjBhYi00NDg1LWE5YzgtMmE2ZWIwYTU2NjYyXC9kZWxnbzM1LTU2YmYzYTgxLTQ2OGMtNGY0ZS05NmVhLWRjODY4ZTczYzM3Zi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.o1w_3bui0ecVpqnArToFOabfJTZzqq6vC6mIAIEzyeo');
+}
+.registration{
+    background-color:rgb(201, 242, 243);
+    position: absolute;
+    top: 23% ;
+    left: 50%;
+    padding:65px;
+    height: 245px;
+    box-shadow: 5px 5px black;
+    width: 600px;
+    border-radius: 5px;
+}
+*{
+    padding:0;
+    margin:1%;
+}
+
+.login{
+    background-color: rgb(201, 242, 243);
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    height: 150px;
+    padding: 30px;
+    padding-right: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+
+}
+.registration input{
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+    text-align:center;
+    
+}
+h1{
+font-family:Titan One;
+position: absolute;
+    bottom: 300px;
+    left: 38%;
+    
+}
+h2{
+    font-family:Titan One;
+   font-size: 35px;
+   text-align: center;
+}
+.login input{
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+
+}
+button{
+    background-color: rgb(255, 38, 0);
+    height: 40px;
+    width: 190px;
+    
+    
+}
+.btn_register{
+    background-color: rgb(0, 246, 250);
+    height: 40px;
+    width: 190px;
+    position: absolute;
+    left: 33%;    
+}
+.btn_login{
+    background-color: rgb(0, 249, 253);
+    height: 40px;
+    width: 190px;
+    position: absolute;
+    left: 33%;    
+}
